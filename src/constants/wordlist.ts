@@ -31,7 +31,6 @@ export const WORDS = [
   'teste',
   'teste', 
   'track', 
-  'carry', 
   'kervo',
   'tolya',
   'eagle', 
