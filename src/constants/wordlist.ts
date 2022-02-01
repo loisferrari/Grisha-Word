@@ -95,7 +95,7 @@ export const WORDS = [
   'garin',
   'marie', 
   'steal', 
-  'marry,'
+  'marry', 
   'rinca', 
   'aleks', 
   'tiger', 
@@ -144,7 +144,7 @@ export const WORDS = [
   'kills',
   'makhi', 
   'daisy', 
-  'ropes,'
+  'ropes', 
   'steel', 
   'reyem', 
   'slums', 
