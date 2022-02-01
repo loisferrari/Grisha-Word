@@ -174,4 +174,8 @@ export const WORDS = [
   'gangs', 
   'blade', 
   'pluck',  
+  'anton',
+  'lewis', 
+  'alive', 
+  'pyotr', 
 ]
