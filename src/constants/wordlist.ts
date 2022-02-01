@@ -29,6 +29,8 @@ export const WORDS = [
   'teste',
   'teste',
   'teste',
+  'teste', 
+  'carry', 
   'kervo',
   'tolya',
   'eagle', 
@@ -90,6 +92,7 @@ export const WORDS = [
   'marie', 
   'blood', 
   'steel', 
+  'marry,'
   'rinca', 
   'aleks', 
   'tiger', 
