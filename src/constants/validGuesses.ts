@@ -10829,4 +10829,5 @@ export const VALIDGUESSES = [
   'raske', 
   'lubov', 
   'roffe',
+  'arken', 
 ]
