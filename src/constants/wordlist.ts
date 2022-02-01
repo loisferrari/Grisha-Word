@@ -18,10 +18,10 @@ export const WORDS = [
   'teste',
   'teste',
   'teste',
-  'teste'
   'teste',
   'teste',
-  'teste'
+  'teste',
+  'teste',
   'teste',
   'teste',
   'teste',
