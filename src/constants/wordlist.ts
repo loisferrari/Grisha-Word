@@ -759,5 +759,5 @@ export const WORDS = [
   'jurda',
   'david',
   'wylan',
-leong',
-]
+  'leong',
+  ]
